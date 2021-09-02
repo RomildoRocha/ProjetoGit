@@ -1,2 +1,1 @@
-Esse projeto ensina você a usar o git
-Isso é uma alteração
+caso perceba que os códigos neste repositório poderiam ser melhorados, não se intimide, sugire melhorias!
